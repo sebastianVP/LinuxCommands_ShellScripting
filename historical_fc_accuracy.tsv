@@ -1,1 +1,2 @@
-year	month	day	obs_temp	fc_temp	accuracy_range
+year	month	day	obs_temp	fc_temp	accuracy	accuracy_range
+2024	06	11	19	22	3	fair
